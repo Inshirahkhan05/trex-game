@@ -83,7 +83,7 @@ function setup() {
 //rus in a loop
 function draw() {
   
-  background(180);
+  background("lightblue");
   //displaying score
   text("Score: "+ score, 500,50);
   
